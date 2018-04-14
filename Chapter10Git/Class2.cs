@@ -8,5 +8,6 @@ namespace Chapter10Git
     {
         int var = 10;
         bool yes = false;
+        public string dd;
     }
 }
